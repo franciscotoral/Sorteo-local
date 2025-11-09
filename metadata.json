@@ -1,0 +1,5 @@
+{
+  "name": "Local Raffle App",
+  "description": "An application to conduct local raffles by uploading a list of participants from a CSV or Excel file. It features winner selection, animations, and the ability to run subsequent draws with remaining participants.",
+  "requestFramePermissions": []
+}
